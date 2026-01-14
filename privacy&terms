@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Area Vale | Privacy Policy & Terms</title>
+  <meta name="description" content="Privacy Policy and Terms of Service for Area Vale." />
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      background: #0b0b12;
+      color: #eaeaf0;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    main {
+      max-width: 900px;
+      margin: auto;
+      padding: 3rem 1.5rem;
+    }
+    h1, h2, h3 {
+      color: #ffffff;
+    }
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 0.5rem;
+    }
+    h2 {
+      margin-top: 3rem;
+      border-bottom: 1px solid #2a2a40;
+      padding-bottom: 0.5rem;
+    }
+    p {
+      margin: 1rem 0;
+    }
+    footer {
+      margin-top: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid #2a2a40;
+      font-size: 0.9rem;
+      color: #b0b0c3;
+    }
+    a {
+      color: #7df9ff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <h1>Area Vale</h1>
+    <p><strong>Privacy Policy & Terms of Service</strong></p>
+    <p><strong>Effective Date:</strong> January 14, 2026</p>
+
+    <!-- PRIVACY POLICY -->
+    <h2>Privacy Policy</h2>
+
+    <p>
+      Area Vale (“we”, “our”, or “us”) respects your privacy. This Privacy Policy
+      explains how we collect, use, and protect information when you use our
+      website, applications, or services (“Services”).
+    </p>
+
+    <h3>Information We Collect</h3>
+    <p>
+      We may collect limited information necessary to operate the Services,
+      including:
+    </p>
+    <ul>
+      <li>Public profile information from connected social media platforms</li>
+      <li>Content and metadata required to publish or manage posts</li>
+      <li>Basic technical information (browser or device type)</li>
+    </ul>
+
+    <p>We do not collect sensitive personal data.</p>
+
+    <h3>Use of Information</h3>
+    <p>
+      Information is used solely to operate, maintain, and improve the Services,
+      including publishing content to connected platforms.
+    </p>
+
+    <h3>AI-Generated Content</h3>
+    <p>
+      Some content may be generated or assisted by artificial intelligence.
+      Personal data is not used to train AI models.
+    </p>
+
+    <h3>Data Sharing</h3>
+    <p>
+      We do not sell personal data. Information may be shared only with platforms
+      or service providers required to operate the Services.
+    </p>
+
+    <h3>Data Retention</h3>
+    <p>
+      Data is retained only as long as necessary to provide the Services or to
+      comply with legal obligations.
+    </p>
+
+    <h3>Security</h3>
+    <p>
+      Reasonable safeguards are implemented to protect information from
+      unauthorized access or disclosure.
+    </p>
+
+    <h3>Your Rights</h3>
+    <p>
+      You may request access, correction, or deletion of your data by contacting
+      us.
+    </p>
+
+    <!-- TERMS OF SERVICE -->
+    <h2>Terms of Service</h2>
+
+    <p>
+      By accessing or using Area Vale, you agree to be bound by these Terms of
+      Service.
+    </p>
+
+    <h3>Use of Services</h3>
+    <p>
+      You agree to use the Services only for lawful purposes and in compliance
+      with applicable laws and platform policies.
+    </p>
+
+    <h3>Content</h3>
+    <p>
+      Content published through Area Vale may be generated or assisted by AI. We
+      make no guarantees regarding accuracy or suitability.
+    </p>
+
+    <h3>Intellectual Property</h3>
+    <p>
+      All branding, visuals, and content associated with Area Vale remain the
+      property of Area Vale unless otherwise stated.
+    </p>
+
+    <h3>Limitation of Liability</h3>
+    <p>
+      The Services are provided “as is” without warranties of any kind. Area Vale
+      shall not be liable for damages arising from use of the Services.
+    </p>
+
+    <h3>Changes</h3>
+    <p>
+      We may update these Terms at any time. Continued use of the Services
+      constitutes acceptance of the updated terms.
+    </p>
+
+    <footer>
+      <p>
+        Contact: <a href="mailto:contact@areavale.com">contact@areavale.com</a>
+      </p>
+      <p>© 2026 Area Vale</p>
+    </footer>
+  </main>
+</body>
+</html>
